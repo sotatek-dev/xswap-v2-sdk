@@ -1,5 +1,5 @@
 {
-  "name": "@xswap/v2-sdk",
+  "name": "@xswap-v3/v2-sdk",
   "license": "MIT",
   "version": "0.0.1",
   "description": "🛠 An SDK for building applications on top of Uniswap V2",
@@ -10,8 +10,8 @@
   ],
   "repository": "https://github.com/sotatek-dev/xswap-v2-sdk.git",
   "keywords": [
-    "uniswap",
-    "ethereum"
+    "xswap",
+    "xinfin"
   ],
   "module": "dist/v2-sdk.esm.js",
   "scripts": {
