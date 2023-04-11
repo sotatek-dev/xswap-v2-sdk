@@ -1,7 +1,7 @@
 {
   "name": "@xswap-v3/v2-sdk",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "🛠 An SDK for building applications on top of Uniswap V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,6 +9,9 @@
     "dist"
   ],
   "repository": "https://github.com/sotatek-dev/xswap-v2-sdk.git",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "xswap",
     "xinfin"

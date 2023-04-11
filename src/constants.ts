@@ -2,7 +2,7 @@ import JSBI from 'jsbi'
 
 export const FACTORY_ADDRESS = '0xCae66ac135d6489BDF5619Ae8F8f1e724765eb8f'
 
-export const INIT_CODE_HASH = '0x67a565926ef15dd0d941568bdb86fb9a06ce6e6053ad61f88aa88df72a0531ea'
+export const INIT_CODE_HASH = '0x49d4a9f22dc2d1b9235b28fa91cd830a3dcadb8771a6c0393d88d7d2d07d896d'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
